@@ -1,0 +1,12 @@
+# Complied class file
+*.class
+
+# Package files
+*.jar
+*.zip
+*.tar.gz
+*.rar
+
+# Generated Sources
+target
+build
